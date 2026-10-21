@@ -127,17 +127,3 @@ git config --global user.email "tu-correo-de-github@ejemplo.com"
 git config --global init.defaultBranch main
 ```
 
----
-
-**Tu tarea ahora:**
-1. Copia todo este texto.
-2. Crea un archivo en Sublime Text llamado `GUIA_GIT.md` en la raíz de `laravel-journey`.
-3. Pégalo, guárdalo.
-4. Haz tus 3 pasos sagrados para subirlo:
-   ```cmd
-   git add .
-   git commit -m "Añadiendo mi manual de comandos de Git"
-   git push
-   ```
-
-¡Tienes tu entorno perfectamente montado, documentado y respaldado en la nube! Ahora sí, mañana arrancamos con toda la fuerza con `@foreach`. ¡Disfruta el resto del día! 🚀

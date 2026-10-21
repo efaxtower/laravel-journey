@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Git.md",
+                "file": "PROGRESO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Git"
+              "title": "PROGRESO"
             }
           }
         ]
@@ -190,11 +190,12 @@
   },
   "active": "3a1704773208a02a",
   "lastOpenFiles": [
+    "GUIA GIT.md",
+    "GUIA_GIT.md",
     "mi-primera-app/laravel-journey/README.md",
     "mi-primera-app/laravel-journey",
     "mi-primera-app/LICENSE",
     "PROGRESO.md",
-    "Comandos Git.md",
     "mi-primera-app/storage/framework/views/bf3a9ce07ebab4052b0c37bfecc46e03.php",
     "mi-primera-app/resources/views/hola.blade.php",
     "README.md"

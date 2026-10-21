@@ -34,13 +34,13 @@ Este repo es mi diario de viaje. Aquí documento:
 ### Semana 0 — Preparación
 - [x] Crear estructura del repo
 - [x] Escribir este README
-- [ ] Instalar Laravel
+- [x] Instalar Laravel
 
 ### Semana 1 — Fundamentos
-- [ ] Ciclo de vida de una request
-- [ ] Rutas
-- [ ] Controladores
-- [ ] Vistas (Blade)
+- [x] Ciclo de vida de una request
+- [x] Rutas
+- [x] Controladores
+- [x] Vistas (Blade)
 - [ ] Primer CRUD
 
 ### Semana 2 — Eloquent

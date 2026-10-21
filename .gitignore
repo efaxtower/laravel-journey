@@ -1,32 +1,27 @@
-# Laravel
-/vendor
-/node_modules
-/public/storage
-/storage/*.key
-.env
-.env.backup
-.phpunit.result.cache
-Homestead.json
-Homestead.yaml
-npm-debug.log
-yarn-error.log
-/auth.json
-/.fleet
-/.idea
-/.vscode
+# === Reglas para la raíz del proyecto ===
 
-# Sistema
+# Sistema Operativo
 .DS_Store
 Thumbs.db
-*.log
-*.swp
-*~
 
-# Composer
-composer.phar
+# === Reglas para el proyecto Laravel (mi-primera-app) ===
 
-# Ignorar dependencias de Laravel
+# Dependencias (pesan muchísimo, no deben subirse)
 mi-primera-app/vendor/
 mi-primera-app/node_modules/
+
+# Archivos de entorno (contienen contraseñas, jamás se suben)
 mi-primera-app/.env
+mi-primera-app/.env.backup
+
+# Archivos temporales y de caché
 mi-primera-app/storage/*.key
+mi-primera-app/.phpunit.result.cache
+mi-primera-app/npm-debug.log
+mi-primera-app/yarn-error.log
+
+# Configuraciones de editores
+mi-primera-app/.vscode
+mi-primera-app/.idea
+mi-primera-app/*.log
+mi-primera-app/*.swp

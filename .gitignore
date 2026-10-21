@@ -1,0 +1,32 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/auth.json
+/.fleet
+/.idea
+/.vscode
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*~
+
+# Composer
+composer.phar
+
+# Ignorar dependencias de Laravel
+mi-primera-app/vendor/
+mi-primera-app/node_modules/
+mi-primera-app/.env
+mi-primera-app/storage/*.key

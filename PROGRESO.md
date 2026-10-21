@@ -19,10 +19,10 @@ Bitácora de lo que hago cada día. Sin Git por ahora, así que esto es mi histo
 -- 
 
 **Qué me costó:**
-- (anota lo que te costó)
+- 
 
 **Próximo paso:**
-- Instalar Laravel (o lo que sea)
+- Instalar Laravel 
 
 
 fail2ban y limitancion de envio de paquetes
@@ -136,7 +136,10 @@ El metodo tradicional se llama REST
 - Añadí `@elseif` para clasificar por edad.
 
 **Qué me costó:**
-- (anota lo que te costó)
+- Aprender un poco como funcionan los archivos .gitignore para subir proyectos a repositorios.
+- entender como subir proyectos al git
+
+### Hoy se hace estreno de el uso de Git
 
 **Próximo paso:**
 - `@foreach` en Blade.

@@ -1,10 +1,6 @@
 
 # Regla de Oro de tu Proyecto
-Ahora que tu carpeta raíz es `laravel-journey` (donde están tus notas, ejercicios y el proyecto Laravel), **todos los comandos de Git se ejecutan desde ahí**. 
 
-Para prender el servidor de Laravel, sí debes entrar a `mi-primera-app`. Pero para guardar en Git, quédate en la raíz.
-
----
 
 ## 🚀 1. Crear un repositorio DESDE CERO (Local a GitHub)
 

@@ -100,6 +100,11 @@ Git es tu máquina del tiempo. Si rompes algo, no entres en pánico.
   *Causa:* No has instalado Git o no has reiniciado la consola después de instalarlo.
   *Solución:* Cierra CMD, ábrelo de nuevo.
 
+- **Resubir** proyecto con cambios de archivos
+`git add -A`
+
+_(El `-A` es crucial aquí. Significa "All". Le dice a Git: "Oye, he borrado cosas, actualiza el registro")._
+
 ---
 
 ## 🧠 5. Glosario de conceptos (Para que sepas qué estás haciendo)

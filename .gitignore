@@ -25,3 +25,6 @@ mi-primera-app/.vscode
 mi-primera-app/.idea
 mi-primera-app/*.log
 mi-primera-app/*.swp
+
+# Configuraciones de Obsidian
+.obsidian/

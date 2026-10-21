@@ -26,7 +26,7 @@ Route::get('/hola/adios', function () {
 });
 
 function nombre() {
-    return "";
+    return ""; /// prueba, lo deje vacio temporalmente///
 }
 
 function edad() {
@@ -35,6 +35,17 @@ function edad() {
 
 Route::get('/blade', function () {
     return view('hola', [ 'nombre' => nombre(), 'edad' => edad()]);
+});
+
+Route::get('/tareas', function() {
+    /// test pseudo base de datos///
+    $tareas = [
+        'aprender laravel',
+        'hacer proyecto de la panaderia (actualizacion)',
+        'configurar servidor para ponerle vpn',
+        'Practicar php'];
+
+    return view('tareas', ['tareas' => $tareas]);
 });
 
 
